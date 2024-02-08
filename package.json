@@ -9,7 +9,7 @@
     "github": "https://github.com/elton"
   },
   "license": "MIT",
-  "repository": "https://github.com/elton/astro-unocss-template.gi",
+  "repository": "https://github.com/elton/astro-unocss-template",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
